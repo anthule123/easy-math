@@ -1,7 +1,7 @@
 # easy-numerical-linear-algebra
 
-[Link] (https://www.amazon.com/Numerical-Linear-Algebra-Lloyd-Trefethen/dp/0898713617/ref=sr_1_1?crid=3KPGNVJXSZO64&keyw
-ords=numerical+linear+algebra+lloyd&qid=1655544934&sprefix=numerical+linear+algebra+llyod%2Caps%2C307&sr=8-1)
+Sách [https://www.amazon.com/Numerical-Linear-Algebra-Lloyd-Trefethen/dp/0898713617/ref=sr_1_1?crid=3KPGNVJXSZO64&keyw
+ords=numerical+linear+algebra+lloyd&qid=1655544934&sprefix=numerical+linear+algebra+llyod%2Caps%2C307&sr=8-1](url)
     
     Chương 7: Phân tích QR
     Chương 8: Trực giao Gram- Schmidt
